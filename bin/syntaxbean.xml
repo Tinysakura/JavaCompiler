@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BEAN>
+<VALUE>
+  <!-- id用来识别句法 adress是句法bean的项目地址 -->
+  <ID>declare</ID>
+  <ADRESS>bean.DeclareSyntaxBean</ADRESS>
+</VALUE>
+</BEAN>
